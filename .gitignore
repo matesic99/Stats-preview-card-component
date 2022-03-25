@@ -15,7 +15,4 @@
 .DS_Store
 .prettierignore
 
-#Other staff
-node_modules/
-*.json
-*.js
+
